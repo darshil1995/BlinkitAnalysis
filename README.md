@@ -1,13 +1,13 @@
 # Blinkit Sales Analysis
 
 ## Overview
-This project aims to conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution. Using Python for data processing and Power BI for visualization, we uncover key insights and optimization opportunities through various KPIs and interactive charts.
+This project aims to conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution. Using Python for data processing and visualization, we uncover key insights and optimization opportunities through various KPIs and interactive charts.
 
 ## Business Requirements
 The analysis focuses on:
 - Understanding total sales, average sales per transaction, item diversity, and customer ratings.
 - Examining key influencing factors like fat content, item type, outlet characteristics, and geographical distribution.
-- Creating actionable insights using Power BI visualizations.
+- Creating actionable insights using Charts for visualizations.
 
 ## KPIs Implemented
 1. **Total Sales** – Overall revenue generated from all items sold.
