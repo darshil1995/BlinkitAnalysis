@@ -1,13 +1,13 @@
 # Blinkit Sales Analysis
 
 ## Overview
-This project aims to conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution. Using Python for data processing and visualization, we uncover key insights and optimization opportunities through various KPIs and interactive charts.
+This project aims to conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution. Using Python And SQL for data processing and visualization, we uncover key insights and optimization opportunities through various KPIs and interactive charts using PowerBI.
 
 ## Business Requirements
 The analysis focuses on:
 - Understanding total sales, average sales per transaction, item diversity, and customer ratings.
 - Examining key influencing factors like fat content, item type, outlet characteristics, and geographical distribution.
-- Creating actionable insights using Charts for visualizations.
+- Creating actionable insights using Charts and PowerBI for visualizations.
 
 ## KPIs Implemented
 1. **Total Sales** – Overall revenue generated from all items sold.
@@ -15,7 +15,7 @@ The analysis focuses on:
 3. **Number of Items** – Total count of different items sold.
 4. **Average Rating** – Average customer rating for items sold.
 
-## Visualizations in Python using Matplotlib and Seaborn libraries
+## Visualizations in Python using Matplotlib and Seaborn libraries And also created Dashboard using PowerBI
 The following charts help analyze sales trends and insights:
 
 | **Chart** | **Objective** | **Chart Type** |
@@ -28,7 +28,8 @@ The following charts help analyze sales trends and insights:
 | Sales by Outlet Location | Geographic distribution of sales | Funnel Map |
 
 ## Tools & Technologies
-- **Python** – Data preprocessing and analysis.
+- **Python & SQL** – Data preprocessing and analysis.
 - **Pandas, NumPy** – Data manipulation.
 - **Matplotlib, Seaborn** – Additional visualization support.
+- **PowerBI** - Visualization and Dashboard
 
